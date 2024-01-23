@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular Authentication with JWT", "Angular Authentication with JWT\Angular Authentication with JWT.csproj", "{6A301A62-294A-4C34-8254-8F015D4C8378}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A301A62-294A-4C34-8254-8F015D4C8378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A301A62-294A-4C34-8254-8F015D4C8378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A301A62-294A-4C34-8254-8F015D4C8378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A301A62-294A-4C34-8254-8F015D4C8378}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {361CE9DB-35B9-4E8D-86AC-60CF9C0E4185}
+	EndGlobalSection
+EndGlobal
